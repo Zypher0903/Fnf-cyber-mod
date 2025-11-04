@@ -36,7 +36,8 @@ textcyber-mod-fnf-python/
 README.md (Professional)
 markdown# Cyber Mod - FNF Python Edition
 
-![Cyber Mod](docs/banner.png)
+![Cyber Mod](<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4a1b0d89-c4b0-4647-ac2a-c3e7c42e426c" />
+)
 
 > A **Friday Night Funkin'**-style rhythm game built in **Python with Pygame**.  
 > Features **3 difficulties**, **procedural charts**, **combo system**, and **full song sync**.
